@@ -1,12 +1,15 @@
-# calculator-html-css-js
-this is a small project that i made with the help of a video on you tube.
-this is my first time uploading something here so thats why this is so simple,
-i started studying JavaScript and i'll post some small projects here while im on college vocation.
+# Projects in JavaScript
+Here I bring a compilation of some small projects using JavaScript, I'm a beginner and that's why they're simple.
+
+I hope you all enjoy this repository.
 
 
-this project is basically a normal calculator that does the same thing as a usual calculator. 
-
+Calculator:
 ![image](https://github.com/alisonoliveira13/calculator-html-css-js/assets/91758588/926d5907-58c2-4ac3-bc90-3097f5490850)
+
+
+Counter:
+![image](https://github.com/alisonoliveira13/calculator-html-css-js/assets/91758588/1302bcef-5045-4e06-8888-dca2725b079e)
 
 
 
