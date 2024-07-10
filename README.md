@@ -13,9 +13,12 @@ Calculator:
 
 
 Counter:
-
-
 ![image](https://github.com/alisonoliveira13/calculator-html-css-js/assets/91758588/1302bcef-5045-4e06-8888-dca2725b079e)
+
+
+
+Review
+![image](https://github.com/alisonoliveira13/small-projects-using-javascript/assets/91758588/9c90001f-5194-4a93-987e-db090d7967e2)
 
 
 
